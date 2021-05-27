@@ -149,7 +149,7 @@ print("Przewdywany czas lotu",time,'h' )
 
         #julka jest fajna
         
-    
+    #costammmajsh
 
 
 
